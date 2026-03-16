@@ -45,12 +45,14 @@ To run this project locally, you need:
 
 ## 📂 Folder Structure
 
-`student-manager/
+```text
+student-manager/
 ├── assets/          # Custom CSS files
 ├── includes/        # Database connection logic
 ├── sql/             # Database schema (SQL files)
 ├── index.php        # Main User Interface
-└── process.php      # Data processing and Logic`
+└── process.php      # Data processing and Logic
+```
 
 ## 📜 License
 This project is open-source and available under the MIT License.
